@@ -1,3 +1,3 @@
 # ArticleCrafter
 
-Please Switch to the Master branch
+Please switch to the Master branch
